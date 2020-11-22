@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/whitedevildeety/Shado.git"><a href="https://ibb.co/Wg3CR8L"><img src="https://i.ibb.co/TmTyNjs/Pngtree-youtube-logo-icon-3560545.png" alt="Pngtree-youtube-logo-icon-3560545" border="0"></a>
   <br>
   TBomb v2.0b
   <br>
